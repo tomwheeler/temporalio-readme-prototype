@@ -4,7 +4,7 @@
 
 
 [![Temporal .NET SDK](https://github-readme-stats.vercel.app/api/pin/?username=temporalio&repo=sdk-dotnet&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/temporalio/sdk-dotnet)
-[![Temporal Ruby SDK](https://github-readme-stats.vercel.app/api/pin/?username=temporalio&repo=sdk-ruby&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/temporalio/sdk-ruby)
+[![Temporal Ruby SDK](https://github-readme-stats.vercel.app/api/pin/?username=temporalio&repo=sdk-ruby&show_icons=true&theme=github_dark#gh-dark-mode-only)](https://github.com/temporalio/sdk-ruby)
 
 ## 📝 Got 5 minutes? Help us make Temporal even better!
 Take [our short survey](https://www.surveymonkey.com/r/CQLWVRB) and let us know how you work with Temporal.
