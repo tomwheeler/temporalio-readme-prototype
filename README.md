@@ -40,7 +40,7 @@ Every message on Twilio, every Coinbase transaction, and every Snap story uses T
 [![Temporal .NET SDK](https://github-readme-stats.vercel.app/api/pin/?username=temporalio&repo=sdk-dotnet&show_icons=true&theme=github_dark#gh-dark-mode-only)](https://github.com/temporalio/sdk-dotnet)
 [![Temporal Ruby SDK](https://github-readme-stats.vercel.app/api/pin/?username=temporalio&repo=sdk-ruby&show_icons=true&theme=github_dark#gh-dark-mode-only)](https://github.com/temporalio/sdk-ruby)
 [![Temporal PHP SDK](https://github-readme-stats.vercel.app/api/pin/?username=temporalio&repo=sdk-php&show_icons=true&theme=github_dark#gh-dark-mode-only)](https://github.com/temporalio/sdk-php)
-[![Temporal Core SDK](https://github-readme-stats.vercel.app/api/pin/?username=temporalio&repo=sdk-core&show_icons=true&theme=github_dark#gh-dark-mode-only)](https://github.com/temporalio/sdk-core)
+[![Temporal Core SDK](https://github-readme-stats.vercel.app/api/pin/?username=temporalio&repo=sdk-core&show_icons=true&description_lines_count=1&theme=github_dark#gh-dark-mode-only)](https://github.com/temporalio/sdk-core)
 
 
 
