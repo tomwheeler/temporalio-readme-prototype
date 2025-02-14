@@ -3,7 +3,7 @@ Prototype for a new @temporalio org README
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=temporalio&repo=temporal)](https://github.com/temporalio/temporal)
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomwheeler&repo=tom-cli)](https://github.com/tomwheeler/tom-cli) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomwheeler&repo=tom-cli)](https://github.com/tomwheeler/tom-cli)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=temporalio&repo=sdk-go)](https://github.com/temporalio/sdk-go)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=temporalio&repo=sdk-java)](https://github.com/temporalio/sdk-java)
@@ -13,6 +13,6 @@ Prototype for a new @temporalio org README
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=temporalio&repo=sdk-dotnet)](https://github.com/temporalio/sdk-dotnet)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=temporalio&repo=sdk-ruby)](https://github.com/temporalio/sdk-ruby)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=temporalio&repo=sdk-php)](https://github.com/temporalio/sdk-php)
+
 
 
