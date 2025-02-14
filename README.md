@@ -3,7 +3,7 @@ Prototype for a new @temporalio org README
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=temporalio&repo=temporal)](https://github.com/temporalio/temporal)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomwheeler&repo=tom-cli)](https://github.com/tomwheeler/tom-cli)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=temporalio&repo=cli&description_lines_count=1)](https://github.com/temporalio/cli)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=temporalio&repo=sdk-go)](https://github.com/temporalio/sdk-go)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=temporalio&repo=sdk-java)](https://github.com/temporalio/sdk-java)
