@@ -2,9 +2,9 @@
 
 **Temporal** delivers an open-source durable execution system that abstracts away the complexity of building scalable, reliable distributed systems. It presents a development abstraction that preserves complete application state so that in the case of a host or software failure it can seamlessly migrate execution to another machine.
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
+[![Temporal .NET SDK](https://github-readme-stats.vercel.app/api/pin/?username=temporalio&repo=sdk-dotnet&show_icons=true&theme=transparent#gh-light-mode-only)](https://github.com/temporalio/sdk-dotnet)
+[![Temporal Ruby SDK](https://github-readme-stats.vercel.app/api/pin/?username=temporalio&repo=sdk-ruby&show_icons=true&theme=transparent#gh-dark-mode-only)](https://github.com/temporalio/sdk-ruby)
 
 ## 📝 Got 5 minutes? Help us make Temporal even better!
 Take [our short survey](https://www.surveymonkey.com/r/CQLWVRB) and let us know how you work with Temporal.
