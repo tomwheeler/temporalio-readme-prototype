@@ -1,7 +1,5 @@
 # temporalio-readme-prototype
-Prototype for a new @temporalio org README
 
-<!--
 **Temporal** delivers an open-source durable execution system that abstracts away the complexity of building scalable, reliable distributed systems. It presents a development abstraction that preserves complete application state so that in the case of a host or software failure it can seamlessly migrate execution to another machine.
 
 ## 📝 Got 5 minutes? Help us make Temporal even better!
@@ -26,10 +24,9 @@ Every message on Twilio, every Coinbase transaction, and every Snap story uses T
 
 [![temporalio on YouTube](https://img.shields.io/badge/temporalio-FF0000?style=flat&logo=youtube)](https://www.youtube.com/temporalio)
 [![Temporal on LinkedIn](https://img.shields.io/badge/Temporal-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/company/temporal-technologies/posts/?feedView=all)
-[![@temporalio on X](https://img.shields.io/badge/%40temporalio-black?logo=x
-)](https://x.com/temporalio)
--->
+[![@temporalio on X](https://img.shields.io/badge/%40temporalio-black?logo=x)](https://x.com/temporalio)
 
+## Pinned
 [![Temporal Service](https://github-readme-stats.vercel.app/api/pin/?username=temporalio&repo=temporal&show_icons=true&theme=transparent)](https://github.com/temporalio/temporal)
 [![Temporal CLI](https://github-readme-stats.vercel.app/api/pin/?username=temporalio&repo=cli&show_icons=true&theme=transparent&description_lines_count=1)](https://github.com/temporalio/cli)
 
