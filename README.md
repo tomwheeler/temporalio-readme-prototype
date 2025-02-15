@@ -46,7 +46,7 @@ Every message on Twilio, every Coinbase transaction, and every Snap story uses T
 [![Temporal Ruby SDK](https://github-readme-stats.vercel.app/api/pin/?username=temporalio&repo=sdk-ruby&show_icons=true&theme=github_dark#gh-dark-mode-only)](https://github.com/temporalio/sdk-ruby#gh-dark-mode-only)
 [![Temporal PHP SDK](https://github-readme-stats.vercel.app/api/pin/?username=temporalio&repo=sdk-php&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/temporalio/sdk-php#gh-light-mode-only)
 [![Temporal PHP SDK](https://github-readme-stats.vercel.app/api/pin/?username=temporalio&repo=sdk-php&show_icons=true&theme=github_dark#gh-dark-mode-only)](https://github.com/temporalio/sdk-php#gh-dark-mode-only)
-[![Temporal Core SDK](https://github-readme-stats.vercel.app/api/pin/?username=temporalio&repo=sdk-core&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/temporalio/sdk-core#gh-light-mode-only)
-[![Temporal Core SDK](https://github-readme-stats.vercel.app/api/pin/?username=temporalio&repo=sdk-core&show_icons=true&theme=github_dark#gh-dark-mode-only)](https://github.com/temporalio/sdk-core#gh-dark-mode-only)
+[![Temporal Core SDK](https://github-readme-stats.vercel.app/api/pin/?username=temporalio&repo=sdk-core&show_icons=true&description_lines_count=1&theme=default#gh-light-mode-only)](https://github.com/temporalio/sdk-core#gh-light-mode-only)
+[![Temporal Core SDK](https://github-readme-stats.vercel.app/api/pin/?username=temporalio&repo=sdk-core&show_icons=true&description_lines_count=1&theme=github_dark#gh-dark-mode-only)](https://github.com/temporalio/sdk-core#gh-dark-mode-only)
 
 
