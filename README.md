@@ -10,7 +10,6 @@
 [![Temporal .NET SDK-Light](https://github-readme-stats.vercel.app/api?username=temporalio&repo=sdk-dotnet&show_icons=true&&theme=default#gh-light-mode-only)](https://github.com/temporalio/sdk-dotnet#gh-light-mode-only)
 
 
-
 ## 📝 Got 5 minutes? Help us make Temporal even better!
 Take [our short survey](https://www.surveymonkey.com/r/CQLWVRB) and let us know how you work with Temporal.
 
